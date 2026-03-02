@@ -1,0 +1,6 @@
+Arduino NANO
+6V 300Rpm Encoder Reduktorlu Motor N20 2 adet
+CJMCU-530 VL53L0X ToF Distance Measurement Sensor Module 3 adet sol capraz orta sağ capraz
+TCRT5000 siyah beyaz sensor
+JSumo-7.4V 2S Lipo Batarya 450mAh 25C - 2S Lipo Pil
+regülatör 7.4 --> 6v
