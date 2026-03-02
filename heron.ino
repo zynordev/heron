@@ -14,7 +14,7 @@
 // GOAL (beyaz zemin) - TCRT5000
 // =====================
 #define GOAL_SENSOR A7
-int GOAL_WHITE_TH = 700;     // 0-1023: kalibre et
+int GOAL_WHITE_TH = 100;     // 0-1023: kalibre et
 bool WHITE_HIGH = false;     // true: beyaz büyükse, false: beyaz küçükse (sen "ters" demiştin -> false)
 int GOAL_CONFIRM = 8;        // kaç ölçüm üst üste beyazsa "bitir"
 
